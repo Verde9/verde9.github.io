@@ -25,10 +25,13 @@ h1{
     letter-spacing: 30px;  
 }
 
+/* mobile backgroudn image */
 
 #short-vov {
     display: none;
 }
+
+/* fade in text animation */
 
 .fade-in-text {
     font-family: Arial, Helvetica, sans-serif;
@@ -114,7 +117,7 @@ h1{
       }
   }
 
-/* nav links */
+/* social media links */
 
 a {
     text-decoration: none;
